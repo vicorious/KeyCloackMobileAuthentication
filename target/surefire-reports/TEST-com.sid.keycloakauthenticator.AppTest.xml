@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.sid.keycloakauthenticator.AppTest" time="0.006" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.sid.keycloakauthenticator.AppTest" time="0.016" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.12+8-LTS-237"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.12\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:/Users/alejo/Documents/Space44/keycloak-authenticator"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/alejo/Documents/Space44/jar/keycloak-authenticator"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\alejo\Documents\Space44\keycloak-authenticator"/>
+    <property name="user.dir" value="C:\Users\alejo\Documents\Space44\jar\keycloak-authenticator"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="11.0.12+8-LTS-237"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -63,5 +63,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.sid.keycloakauthenticator.AppTest" name="testApp" time="0.006"/>
+  <testcase classname="com.sid.keycloakauthenticator.AppTest" name="testApp" time="0.016"/>
 </testsuite>
